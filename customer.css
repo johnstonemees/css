@@ -1,4 +1,4 @@
 
 body {
-  -moz-binding: url(script.xml#mycode);
+  -moz-binding: url(/css/script.xml#mycode);
 }
