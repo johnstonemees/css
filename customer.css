@@ -13172,11 +13172,11 @@ body .nav-width {
 }
 
 body{ 
-  background-image: url(bgimage.gif);
+  background-image: url(/css/cheat.png);
   background-color: #000000;
 }
 
 .container{ 
-  background-image: url(bgimage2.gif);
+  background-image: url(/css/cheat.png);
   background-color: #000000;
 }
